@@ -1,9 +1,12 @@
 #BlueJ class context
-comment0.params=graphDescription
-comment0.target=Graph(java.lang.String)
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ AdjacencyMatrix\n
-comment1.params=
-comment1.target=java.lang.String\ toString()
-comment2.params=
-comment2.target=adjacencyMatrix()
-numComments=3
+comment0.params=file
+comment0.target=Graph(java.io.File)
+comment1.params=graphDescription
+comment1.target=Graph(java.lang.String)
+comment2.params=graphDescription
+comment2.target=void\ parseGraphDescription(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=adjacencyMatrix()
+numComments=5
