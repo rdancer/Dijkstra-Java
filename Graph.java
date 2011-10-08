@@ -1,7 +1,7 @@
 /**
  * Class Graph implementation.
  * 
- * Copyright 2011 Jan Minar <rdancer@rdancer.org>  All rights reserved.
+ * Copyright 2011 Jan Minar <rdancer@rdancer.org>  Licensed under the GNU GPL v2.
  *
  * @author Jan Minar <rdancer@rdancer.org> 
  */
